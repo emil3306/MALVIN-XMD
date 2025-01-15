@@ -1,4 +1,4 @@
-const fs = require('fs');
+85wBBR5B#LylfzvS2xI8nzKK9lWqsoM9IgOPj8VQ4iCEp7gp4VaEconst fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
