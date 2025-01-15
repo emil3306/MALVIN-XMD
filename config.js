@@ -18,7 +18,7 @@ ANTI_LINK: process.env.ANTI_LINK || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 �
 ANTI_BAD: process.env.ANTI_BAD || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 AUTO_REACT: process.env.AUTO_REACT || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false", //📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 ///==================Do not change anything below=========================
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/7pg2gp.jpg", //do not change alive img url
